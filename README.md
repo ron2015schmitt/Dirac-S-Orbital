@@ -6,13 +6,23 @@ An interesting differences between the Schrodinger (non-relativistic) and Dirac 
 + The Dirac equation predicts a non-zero velocity field that circulates about the spin axis so as to create a angular momemntum and magnetic field that cancels the intrinsic spin field (Lenz Law in classical electrodynamics).
 
 
+# Energy density as a function of radius
+
 ![Energy Density Radial Plot](https://github.com/ron2015schmitt/Dirac-S-Orbital/blob/master/energy%20density.png)
+
+# Velocity field on z=0 plane
 
 ![Velocity Field at z=0](https://github.com/ron2015schmitt/Dirac-S-Orbital/blob/master/velocity.png)
 
+# Yvon-Takabayasi Angle
+
 ![Yvon-Takabayasi Angle](https://github.com/ron2015schmitt/Dirac-S-Orbital/blob/master/Yvon-Takabayasi%20Angle.png)
 
+#Total Spin Field
+
 ![Total Spin Field](https://github.com/ron2015schmitt/Dirac-S-Orbital/blob/master/spin.png)
+
+#Spin Field showing only Sx and Sy
 
 ![Spin Field: x anxd y component only](https://github.com/ron2015schmitt/Dirac-S-Orbital/blob/master/spin%20x%20and%20y%20direction%20only.png)
 
