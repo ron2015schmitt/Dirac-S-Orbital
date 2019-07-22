@@ -1,7 +1,7 @@
 # Dirac-S-Orbital
 Calculates the bilinear covariants / local fields of the relativistic electron in a Hydrogen atom
 
-An interesting differences between the Schrodinger (non-relativistic) and Dirac (relativistic, more accurate) results:
+Interesting differences between the Schrodinger Equation (non-relativistic) and the Dirac Equation (relativistic, more accurate):
 + The Dirac Equation more accurate predicts the electron energy: -13.59847 eV. (Matches value listed in Table 3.3 of Ohlsson, Tommy. Relativistic quantum physics: from advanced quantum mechanics to introductory quantum field theory. Cambridge University Press, 2011.)
 + The Dirac equation predicts a non-zero velocity field that circulates about the spin axis so as to create a angular momemntum and magnetic field that cancels the intrinsic spin field (Lenz Law in classical electrodynamics).
 
