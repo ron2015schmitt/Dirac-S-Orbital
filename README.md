@@ -10,7 +10,7 @@ An interesting differences between the Schrodinger (non-relativistic) and Dirac 
 
 ![Velocity Field at z=0](https://github.com/ron2015schmitt/Dirac-S-Orbital/blob/master/velocity.png)
 
-![Yvon-Takabayasi Angle](https://github.com/ron2015schmitt/Dirac-S-Orbital/blob/master/Yvon-Takabyasi%20Angle.png)
+![Yvon-Takabayasi Angle](https://github.com/ron2015schmitt/Dirac-S-Orbital/blob/master/Yvon-Takabayasi%20Angle.png)
 
 ![Total Spin Field](https://github.com/ron2015schmitt/Dirac-S-Orbital/blob/master/spin.png)
 
